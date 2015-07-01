@@ -13,11 +13,11 @@ cat
 
 
 cd
-  Descrição do comando
+  Muda para outro diretório do sistema de arquivos. Comando feito com .. sobe um diretório da árvore.
 
 
 cowsay
-  Descrição do comando
+  Programa que mostra uma determinada mensagem definida pelo usuário com a ilustração de uma vaca.
 
 
 echo
