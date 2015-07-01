@@ -9,7 +9,7 @@ Glossário de comandos
 :Data: 01/07/2015
 
 cat
-  Descrição do comando
+  Mostra o conteúdo de um arquivo na saída padrão do sistema.
 
 
 cd
