@@ -16,11 +16,13 @@ cat
 
 cd
   Muda para outro diretório do sistema de arquivos. Comando feito com .. sobe um diretório da árvore.
+  
   Ex: cd diretorio;
 
 
 cowsay
   Programa que mostra uma determinada mensagem definida pelo usuário com a ilustração de uma vaca.
+  
   Ex: cowsay "Hello!";
 
 
