@@ -10,6 +10,7 @@ Glossário de comandos
 
 cat
   Mostra o conteúdo de um arquivo na saída padrão do sistema.
+  
   Ex: cat file.txt;
 
 
